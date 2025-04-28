@@ -1,6 +1,6 @@
 # Weather API Service
 
-A simple REST API service that provides weather information based on geographical coordinates using the (OpenWeather API)[https://openweathermap.org/api/one-call-3].
+A simple REST API service that provides weather information based on geographical coordinates using the [OpenWeather API](https://openweathermap.org/api/one-call-3).
 
 ## Feature
 

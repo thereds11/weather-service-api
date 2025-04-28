@@ -69,6 +69,12 @@ Get weather information for a given location
 - `lat` (required): Latitude of the location
 - `lon` (required): Longitude of the location
 
+**Example:**
+
+```bash
+http://localhost:3000/api/weather?lat=33.44&lon=-94.04
+```
+
 **Response:**
 
 ```json

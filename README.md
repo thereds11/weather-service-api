@@ -38,6 +38,14 @@ OPENWEATHER_API_KEY=your_openweather_api_key
 PORT=3000
 ```
 
+## Testing
+
+```bash
+npm run test
+# or 
+yarn test
+```
+
 ## Usage
 
 1. Start the server:
